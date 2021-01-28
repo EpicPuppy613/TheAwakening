@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Audiowide';
-    src: url('./Fonts/Audiowide/audiowide-regular-webfont.woff2') format('woff2'),
-         url('./Fonts/Audiowide/audiowide-regular-webfont.woff') format('woff');
+    src: url('./Fonts/audiowide-regular-webfont.woff2') format('woff2'),
+         url('./Fonts/audiowide-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -17,11 +17,13 @@ a {
     color: #FFD37F;
 }
 hr {
-    border-color: #FFD37F;
-    border-width: 3px;
+    background: #FFD37F;
+    padding: 2px;
+    border: none;
+    margin: 10px;
 }
 .button {
-    margin: 5px;
+    margin: 10px;
     border: #888888 solid 5px;
     padding: 5px;
     border-radius: 5px;
