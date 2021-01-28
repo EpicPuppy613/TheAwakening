@@ -10,5 +10,24 @@ body {
     font-weight: normal;
     font-style: normal;
     text-align: center;
-    background-color: #ddd;
+    background-color: #222;
+    color: white;
+}
+a {
+    color: #FFD37F;
+}
+hr {
+    border-color: #FFD37F;
+    border-width: 3px;
+}
+.button {
+    border: #888 solid 5px;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+}
+.button:hover {
+    border-color: #FFD37F;
 }
