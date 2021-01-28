@@ -30,6 +30,7 @@ hr {
     text-decoration: none;
     color: white;
     background-color: black;
+    transition: border 0.2s;
 }
 .button:hover {
     border-color: #FFD37F;
