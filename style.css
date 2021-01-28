@@ -21,6 +21,7 @@ hr {
     border-width: 3px;
 }
 .button {
+    margin: 5px;
     border: #888888 solid 5px;
     padding: 5px;
     border-radius: 5px;
