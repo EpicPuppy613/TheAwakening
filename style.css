@@ -10,7 +10,7 @@ body {
     font-weight: normal;
     font-style: normal;
     text-align: center;
-    background-color: #222;
+    background-color: #222222;
     color: white;
 }
 a {
@@ -21,7 +21,7 @@ hr {
     border-width: 3px;
 }
 .button {
-    border: #888 solid 5px;
+    border: #888888 solid 5px;
     padding: 5px;
     border-radius: 5px;
     text-decoration: none;
